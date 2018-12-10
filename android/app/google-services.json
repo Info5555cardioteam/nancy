@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "186660793795",
+    "firebase_url": "https://nancy2-5ddc5.firebaseio.com",
+    "project_id": "nancy2-5ddc5",
+    "storage_bucket": "nancy2-5ddc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186660793795:android:21d3a6a523051ee8",
+        "android_client_info": {
+          "package_name": "com.example.numberentry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186660793795-t47nn4ab8ti3ps6mt627ef01sobcpjsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu-JWbNNf5BS0DYI_rpw4nmqaXHvJAWPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
